@@ -1,0 +1,60 @@
+#EXTINF:0,Sky Movies Premiere 
+http://91.109.20.227:8080/TV4251
+#EXTINF:0,Sky Movies Premiere+ 
+http://91.109.20.227:8080/TV4252 
+#EXTINF:0,Sky Movies Select 
+http://91.109.20.227:8080/TV4254 
+#EXTINF:0,Sky Movies Action & Adventure 
+http://91.109.20.227:8080/TV4245 
+#EXTINF:0,Sky Movies Comedy 
+http://91.109.20.227:8080/TV4246 
+#EXTINF:0,Sky Movies Disney 
+http://91.109.20.227:8080/TV4247 
+#EXTINF:0,Sky Movies Family 
+http://91.109.20.227:8080/TV4248 
+#EXTINF:0,Sky Movies Family 
+http://91.109.20.227:8080/TV4249
+#EXTINF:0,Sky Movies Premiere 
+http://185.56.30.123:8082/TV4251
+#EXTINF:0,Sky Movies Premiere+ 
+http://185.56.30.123:8082/TV4252
+#EXTINF:0,Sky Sky Movies Select 
+http://185.56.30.123:8082/TV4254
+#EXTINF:0,Sky Movies Action & Adventure 
+http://185.56.30.123:8082/TV4245
+#EXTINF:0,Sky Movies Comedy 
+http://185.56.30.123:8082/TV4246
+#EXTINF:0,Sky Movies Disney 
+http://185.56.30.123:8082/TV4247
+#EXTINF:0,Sky Movies Family 
+http://185.56.30.123:8082/TV4248
+#EXTINF:-1,OSN
+http://185.27.237.105:8082/TV0083
+#EXTINF:-1,OSN +2
+http://185.27.237.105:8082/TV0062
+#EXTINF:-1,OSN Movies Action HD
+http://185.27.237.105:8082/TV0025
+#EXTINF:-1,OSN Movies Comedy
+http://185.27.237.105:8082/TV0125
+#EXTINF:-1,OSN Comedy +2
+http://185.27.237.105:8082/TV0021
+#EXTINF:-1,OSN Movies Drama
+http://185.27.237.105:8082/TV0022
+#EXTINF:-1,OSN Movie Drama +2
+http://185.27.237.105:8082/TV0075
+#EXTINF:-1,OSN Movies Festival
+http://185.27.237.105:8082/TV0129
+#EXTINF:-1,OSN Movies First HD
+http://185.27.237.105:8082/TV0063
+#EXTINF:-1,OSN Movies First More
+http://185.27.237.105:8082/TV0084
+#EXTINF:-1,OSN Movies HD
+http://185.27.237.105:8082/TV0023
+#EXTINF:-1,OSN Movies HD +2
+http://185.27.237.105:8082/TV0054
+#EXTINF:-1,OSN Movies HD +2
+http://185.27.237.105:8082/TV0054
+#EXTINF:-1,OSN Movies Kids
+http://185.27.237.105:8082/TV0053
+#EXTINF:-1,OSN Movies Premier
+http://185.27.237.105:8082/TV0024
